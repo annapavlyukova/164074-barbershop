@@ -2,7 +2,7 @@
 
 * Студент: [Анна Павлюкова](https://htmlacademy.ru/profile/id164074).
 
-* Наставник: Марина Сулим
+* Наставник: [Марина Сулим] (https://htmlacademy.ru/profile/marina_borisova).
   
 ---
 
