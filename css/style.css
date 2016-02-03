@@ -1,0 +1,19 @@
+body{
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+font-weight: normal;
+font-family: 'PT Sans Narrow' serif;
+}
+h1{
+  font-size: 48px;
+  color:inherit;
+  font-weight: bold;
+  font-family: 'PT Sans Narrow' serif;
+}
+h2{
+  font-size: 30px;
+  color: inherit;
+  font-weight: bold;
+  font-family: 'PT Sans Narrow' serif;
+}
