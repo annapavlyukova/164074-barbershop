@@ -3,17 +3,19 @@ font-size: 14px;
 line-height: 24px;
 color: #000000;
 font-weight: normal;
-font-family: 'PT Sans Narrow' serif;
+font-family: 'PT Sans Narrow', sans-serif;
 }
 h1{
   font-size: 48px;
+  line-height:58px
   color:inherit;
   font-weight: bold;
-  font-family: 'PT Sans Narrow' serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 h2{
   font-size: 30px;
+  line-height: 36px;
   color: inherit;
   font-weight: bold;
-  font-family: 'PT Sans Narrow' serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
